@@ -43,16 +43,9 @@ Features :
 
 - Designed with an IUnitAI interface for clean OOP architecture.
 
+- Enemy waits until the player finishes moving before taking its turn
+
+
 
 
 NOTE: THIS REPOSITARY ONLY INCLUDES SCRIPTS OF THE GAME NOT AN ACTUAL GAME.
-
-
-
-
-
-
-
-
-
-- Enemy waits until the player finishes moving before taking its turn
